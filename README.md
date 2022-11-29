@@ -1,6 +1,6 @@
 # INFO558 Kaggle Competition
 
-Group: Neural Master
+## Group: Neural Master
 
 - Hao-Tien Kuo 5/5
 - Yunyi Shao 5/5
