@@ -2,7 +2,7 @@
 
 Forecast demand of several beachfront restaurants
 
-https://www.kaggle.com/competitions/applications-of-deep-learning-wustlfall-2022/overview
+https://www.kaggle.com/competitions/applications-of-deep-learning-wustlfall-2022/
 
 ## Group: Neural Master
 - Hao-Tien Kuo
