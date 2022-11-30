@@ -1,6 +1,6 @@
-# [INFO558 Kaggle Competition](https://www.kaggle.com/competitions/applications-of-deep-learning-wustlfall-2022/)
+# INFO558 Kaggle Competition
 
-## Applications of Deep Learning (WUSTL, Fall 2022): Forecast demand of several beachfront restaurants
+## [Applications of Deep Learning (WUSTL, Fall 2022): Forecast demand of several beachfront restaurants](https://www.kaggle.com/competitions/applications-of-deep-learning-wustlfall-2022/)
 
 This competition is provided as a way to explore different time series techniques on a relatively simple and clean dataset. Your task is to forecast demand for four beach front restaurants with a variety of items for sale.
 
